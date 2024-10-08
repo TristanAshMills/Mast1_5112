@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@react-native-picker/picker": "^2.8.0",
+    "@react-navigation/native-stack": "^6.11.0"
+  }
+}
